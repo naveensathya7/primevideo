@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.movie-thumbnail {
+  width: 93%;
+  height: 180px;
+  cursor: pointer;
+}
+.modal-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.close-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  align-self: flex-end;
+  width: 28px;
+  height: 28px;
+  margin-right: 18px;
+  margin-left: 18px;
+}
+.popup-content {
+  width: 750px;
+  height: 460px;
+  border-radius: 16px;
+  background-color: #ffffff;
+}
+.movie-player-container {
+  margin-top: 10px;
+  align-self: center;
+}

@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.prime-video-container {
+  height: 100vh;
+  background-color: #000000;
+  overflow: auto;
+}
+.prime-video-logo {
+  height: 35vh;
+  width: 100vw;
+  margin-bottom: 0px;
+}
+.movies-list-container {
+  height: 100vh;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.heading1 {
+  margin-top: 15px;
+  color: #ffffff;
+  margin-left: 20px;
+}
